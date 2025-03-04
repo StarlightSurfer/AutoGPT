@@ -61,7 +61,7 @@ interactions:
       X-Content-Hash:
       - b7b949d0010676011ba062f2cc93d0c928f49ed10b28b1fa1d4b4f32cb056f2a
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -178,7 +178,7 @@ interactions:
       X-Content-Hash:
       - bc554488853ade5ee02598ef7dcb6a9aab8a5ac6763d26ba1a697a6f9d00e82c
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -338,7 +338,7 @@ interactions:
       X-Content-Hash:
       - 247ecce6f031f4c69036b4c062d2996c7573ca8048e0cad8d65b4d38e7f0dd4f
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -512,7 +512,7 @@ interactions:
       X-Content-Hash:
       - 367e3493fa593e763d99498b4e7b0f18bc830b3579efc56e1774a30f465bbee7
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -642,7 +642,7 @@ interactions:
       X-Content-Hash:
       - ce5aa5a1fd7f7be49bd5f33f50c153df567591b16cce1a9e178ec39545cc2780
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -802,7 +802,7 @@ interactions:
       X-Content-Hash:
       - 4d98d73924dad2ec682cc390f1346e7792a540c88ff686fec145a7fd1ceafa64
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -975,7 +975,7 @@ interactions:
       X-Content-Hash:
       - 581c301bff19d23f5ebbbd5e2dad8c9d232d3e7bcd88cdfeddb9ef69160c7142
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1105,7 +1105,7 @@ interactions:
       X-Content-Hash:
       - 588d7252cd744ca70f1e5cc674136aaa00b9e9ae94ba2e7aed3b1c99a47128e2
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1265,7 +1265,7 @@ interactions:
       X-Content-Hash:
       - 04e2576327167b2145f552106565813ea3cc630e8829440be3ebf64ee1b4e431
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1437,7 +1437,7 @@ interactions:
       X-Content-Hash:
       - 9b5cb4cf1419f2fe064db2ffb16ca708da93413701a8b684bb416b28478543e9
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1568,7 +1568,7 @@ interactions:
       X-Content-Hash:
       - 9b3861578eccd6083a51551e2dcf871eb0be5ef495580e628608707e156773bb
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1730,7 +1730,7 @@ interactions:
       X-Content-Hash:
       - ba0c54f3b95b84ad4302bf53904e239d3186696d31b70b49cb58f6a058688c0c
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -1904,7 +1904,7 @@ interactions:
       X-Content-Hash:
       - 2e4b5c5b78e32476cda508abd50049add350a596a7f2dae85df6164f4088cf7f
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2053,7 +2053,7 @@ interactions:
       X-Content-Hash:
       - 4ca15d6ba0974ae5196fae0e89a2dca7b5db324720c1da88d964b63debca49af
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2171,7 +2171,7 @@ interactions:
       X-Content-Hash:
       - 020fb6cf7165b5483cffb5fc99bf33f40625ef8e2a055eaabd7472d019b98bd9
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2338,7 +2338,7 @@ interactions:
       X-Content-Hash:
       - 25ad8638d686af1f25a0ebc5cd2ba14a1f0056d9443070853542309c61083b17
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2471,7 +2471,7 @@ interactions:
       X-Content-Hash:
       - 50b62710931b89d530f586ca19c715986dc6ce2d38a0c84c335bc1259cea2abd
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2633,7 +2633,7 @@ interactions:
       X-Content-Hash:
       - be7bdb83861393ea2702336d9881033aa0512fe6b89c2ddcba5e26f54e224863
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2807,7 +2807,7 @@ interactions:
       X-Content-Hash:
       - 629f52721f814e0c3dcb081b918f58a84c3907e8d33602496f45ca9f2889d0ba
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -2957,7 +2957,7 @@ interactions:
       X-Content-Hash:
       - b0ee83bd69d4b63627597ee08c11ef7bf72c36866dde29d3bfbf837802ce1d1a
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -3135,7 +3135,7 @@ interactions:
       X-Content-Hash:
       - c5debb9be31f5a4076d23fef43ae6c33257f95b28aaff873ed0d9d2580bc2ef6
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -3269,7 +3269,7 @@ interactions:
       X-Content-Hash:
       - 347953f431f9c660f40302182e8b9c69c7f80a41abd13baf65842f68de6f9d9f
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -3433,7 +3433,7 @@ interactions:
       X-Content-Hash:
       - 9a4e771107eb3cce0ce5e3395febb3f54a69cb5d3e48803cf6816bf01311e2ae
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -3608,7 +3608,7 @@ interactions:
       X-Content-Hash:
       - 18b1ab6d38ce5b4f8a8a09143c82fdd013241eabae3a3fcd3a9a2540d6701ff6
     method: POST
-    uri: https://api.openai.com/test/v1/chat/completions
+    uri: https://api.chatanywhere.tech/test/v1/chat/completions
   response:
     body:
       string: !!binary |

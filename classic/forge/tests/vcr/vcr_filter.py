@@ -7,7 +7,7 @@ from typing import Any
 from vcr.request import Request
 
 HOSTNAMES_TO_CACHE: list[str] = [
-    "api.openai.com",
+    "api.chatanywhere.tech",
     "localhost:50337",
     "duckduckgo.com",
 ]
@@ -32,7 +32,7 @@ LLM_MESSAGE_REPLACEMENTS: list[dict[str, str]] = [
     },
 ]
 
-OPENAI_URL = "api.openai.com"
+OPENAI_URL = "api.chatanywhere.tech"
 
 
 def before_record_request(request: Request) -> Request | None:

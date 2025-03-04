@@ -35,7 +35,7 @@ interactions:
       X-Content-Hash:
       - cc4940b13e25117216dfcd3c7dcdc665cf7ef70a10b5633f2f67f1a832c3e89a
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
@@ -145,7 +145,7 @@ interactions:
       X-Content-Hash:
       - ac6044440efb25bc33deca1c1be80cfef40e6a3eeb43febe36cc11c8f17b869c
     method: POST
-    uri: https://api.openai.com/v1/chat/completions
+    uri: https://api.chatanywhere.tech/v1/chat/completions
   response:
     body:
       string: !!binary |
